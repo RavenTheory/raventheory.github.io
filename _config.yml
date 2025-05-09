@@ -8,7 +8,7 @@ middle_name:
 last_name: Bhandari
 contact_note: >
   Best way to reach me is via email
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+# the ">" symbol means to ignore newlines until "footer_text:"
 description: >
   A personal website showcasing my work in theoretical physics, including my research, solutions to academic problems, and other projects. Based on the [al-folio](https://github.com/alshedivat/al-folio) theme.
 footer_text: >
