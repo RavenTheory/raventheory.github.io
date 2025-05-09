@@ -1,3 +1,15 @@
+
+
+## README
+
+This is my GitHub Pages that is made using the al-folio template
+
+## al-folio readme
+<details>
+  <summary>al-folio readme</summary>
+
+
+
 # al-folio
 
 <div align="center">
