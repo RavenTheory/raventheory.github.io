@@ -3,7 +3,6 @@ layout: book-review
 title: The Strangest Man
 author: Graham Farmelo
 cover: assets/img/book_covers/the_strangest_man.jpg
-olid: OL23276532M
 isbn: 0465018275
 categories: biography physics
 tags: dirac
@@ -21,3 +20,7 @@ During my master's studies I began to know more about Dirac as I learned about p
 This book was perfect for me, who was curious about Dirac, and I can now say that he is probably the physicist I most look up to.
 
 This biography is very interesting and well written, I'm not really a book reviewer, so I don't know what else to say, lol.
+
+
+
+<br><br><br><br><br><br><br><br><br><br>

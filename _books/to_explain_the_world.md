@@ -3,8 +3,6 @@ layout: book-review
 title: To Explain the World
 author: Steven Weinberg
 cover: assets/img/book_covers/to_explain_the_world.jpg
-olid: OL17261038M
-isbn: 0062346655
 categories: science physics history
 tags: weinberg
 started: 2025
@@ -21,3 +19,7 @@ So far I have read almost half of it, but my reading has been a bit slow since I
 I've probably spent more time copying this book than reading it even if I have read three times the amount I've copied.
 
 I certainly would recommend this book to anyone that is interested in science and history of sciences.
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
