@@ -16,64 +16,35 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-publications",
-          title: "publications",
-          description: "publications by categories in reversed chronological order.",
+        },{id: "nav-research",
+          title: "research",
+          description: "Research/publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/research/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A  collection of my random projects.",
+        },{id: "nav-study",
+          title: "study",
+          description: "A collection of notes and exercise solutions on topics I&#39;m learning.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/study/";
           },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-bookshelf",
-          title: "bookshelf",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/books/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
-        },{id: "post-why-i-chose-fedora-for-my-home-server",
-        
-          title: "Why I chose Fedora for my home server",
-        
-        description: "I explain why I chose to use Fedora for my home server",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/why-I-chose-fedora/";
-          
-        },
-      },{id: "post-my-first-blog",
-        
-          title: "My first blog",
-        
-        description: "A little blog post",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/First-Blog/";
-          
-        },
-      },{id: "books-introduction-to-electrodynamics",
+        },{id: "dropdown-bookshelf",
+              title: "bookshelf",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/books/";
+              },
+            },{id: "dropdown-repositories",
+              title: "repositories",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/repositories/";
+              },
+            },{id: "books-introduction-to-electrodynamics",
           title: 'Introduction to Electrodynamics',
           description: "",
           section: "Books",handler: () => {
@@ -93,31 +64,46 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_strangest_man/";
-            },},{id: "books-a-life-in-physics",
-          title: 'A Life in Physics',
+            },},{id: "books-a-relativist-s-toolkit-the-mathematics-of-black-hole-mechanics",
+          title: 'A Relativist’s Toolkit: The Mathematics of Black-Hole Mechanics',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/life_in_physics/";
-            },},{id: "books-string-theory-vol-1-an-introduction-to-the-bosonic-string",
-          title: 'String Theory Vol. 1: An Introduction to the Bosonic String',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/polchinski_string_theory_vol1/";
-            },},{id: "books-to-explain-the-world",
-          title: 'To Explain the World',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/to_explain_the_world/";
+              window.location.href = "/books/poisson-relativist-toolkit/";
             },},{id: "books-group-theory-in-a-nutshell-for-physicists",
           title: 'Group Theory in a Nutshell for Physicists',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/zee_group_theory_nutshell/";
-            },},{id: "projects-homeserver",
-          title: 'Homeserver',
-          description: "Setting up a fedora linux server as a home server",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_Homeserver/";
+            },},{id: "books-a-life-in-physics",
+          title: 'A Life in Physics',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/life_in_physics/";
+            },},{id: "books-to-explain-the-world",
+          title: 'To Explain the World',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/to_explain_the_world/";
+            },},{id: "books-string-theory-vol-1-an-introduction-to-the-bosonic-string",
+          title: 'String Theory Vol. 1: An Introduction to the Bosonic String',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/polchinski_string_theory_vol1/";
+            },},{id: "study-string-theory",
+          title: 'String Theory',
+          description: "Notes on string theory, branes, and dualities.",
+          section: "Study",handler: () => {
+              window.location.href = "/study/1_String-Theory/";
+            },},{id: "study-group-theory",
+          title: 'Group Theory',
+          description: "Notes and exercise soluitions on group theory.",
+          section: "Study",handler: () => {
+              window.location.href = "/study/2_Group-Theory/";
+            },},{id: "study-quantum-field-theory",
+          title: 'Quantum Field Theory',
+          description: "Personal solutions and detailed calculations from my past Quantum Field Theory homework assignments.",
+          section: "Study",handler: () => {
+              window.location.href = "/study/3_Quantum-Field-Theory/";
             },},{
         id: 'social-email',
         title: 'email',
