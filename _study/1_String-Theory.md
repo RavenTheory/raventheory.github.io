@@ -1,7 +1,7 @@
 ---
 layout: page
 title: String Theory
-description: Notes on string theory, branes, and dualities.
+description: Notes and exercises on string theory.
 thumbnail: Calabi_yau.jpg
 order: 1
 ---
