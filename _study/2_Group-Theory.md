@@ -18,7 +18,7 @@ I did not take notes when studying *Group Theory in a Nutshell for Physicists*.
 #### Exercises
 
 **LaTeX Solutions:**  
-~~[Typed LaTeX Solutions PDF](../assets/study/group-theory/zee/zee-group-theory-solutions.pdf), currently has solutions for Chapter I.1 and Part III.~~ (They are in work right now so not exactly ready yet.) I was planning to eventually have all of my solutions in latex, but converting 60+ pages is a lot of work, so I might do that only when I want to revise my group theory basics.
+<a href="/assets/study/group-theory/zee/zee-group-theory-solutions.pdf" target="_blank" rel="noopener">Typed LaTeX Solutions PDF</a>, currently has solutions for Chapter I.1 and Part III. I was planning to eventually have all of my solutions in latex, but converting 60+ pages is a lot of work, so I might do that only when I want to revise my group theory basics.
 
 **Part I**
 <ul>

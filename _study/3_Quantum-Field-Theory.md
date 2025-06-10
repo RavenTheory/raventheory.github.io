@@ -19,25 +19,25 @@ I did not take any notes during my studies so there are none
 ### Quantum Field Theory 1
 <strong>Exercises</strong>
 <ul>
-  <li><a href="/assets/study/quantum-field-theory/QFT1/QFT1_HW1.pdf" target="_blank" rel="noopener">Homework 1</a></li>
-  <li><a href="/assets/study/quantum-field-theory/QFT1/QFT1_HW2.pdf" target="_blank" rel="noopener">Homework 2</a></li>
-  <li><a href="/assets/study/quantum-field-theory/QFT1/QFT1_HW3.pdf" target="_blank" rel="noopener">Homework 3</a></li>
-  <li><a href="/assets/study/quantum-field-theory/QFT1/QFT1_HW4.pdf" target="_blank" rel="noopener">Homework 4</a></li>
-  <li><a href="/assets/study/quantum-field-theory/QFT1/QFT1_HW5.pdf" target="_blank" rel="noopener">Homework 5</a></li>
-  <li><a href="/assets/study/quantum-field-theory/QFT1/QFT1_HW6.pdf" target="_blank" rel="noopener">Homework 6</a></li>
-  <li><a href="/assets/study/quantum-field-theory/QFT1/QFT1_HW7.pdf" target="_blank" rel="noopener">Homework 7</a></li>
+  <li><a href="/assets/study/quantum-field-theory/QFT1/QFT1_HW1-compressed.pdf" target="_blank" rel="noopener">Homework 1</a></li>
+  <li><a href="/assets/study/quantum-field-theory/QFT1/QFT1_HW2-compressed.pdf" target="_blank" rel="noopener">Homework 2</a></li>
+  <li><a href="/assets/study/quantum-field-theory/QFT1/QFT1_HW3-compressed.pdf" target="_blank" rel="noopener">Homework 3</a></li>
+  <li><a href="/assets/study/quantum-field-theory/QFT1/QFT1_HW4-compressed.pdf" target="_blank" rel="noopener">Homework 4</a></li>
+  <li><a href="/assets/study/quantum-field-theory/QFT1/QFT1_HW5-compressed.pdf" target="_blank" rel="noopener">Homework 5</a></li>
+  <li><a href="/assets/study/quantum-field-theory/QFT1/QFT1_HW6-compressed.pdf" target="_blank" rel="noopener">Homework 6</a></li>
+  <li><a href="/assets/study/quantum-field-theory/QFT1/QFT1_HW7-compressed.pdf" target="_blank" rel="noopener">Homework 7</a></li>
 </ul>
 
 ### Quantum Field Theory 2
 <strong>Exercises</strong>
 <ul>
-  <li><a href="/assets/study/quantum-field-theory/QFT2/QFT_2_HW_1.pdf" target="_blank" rel="noopener">Homework 1</a></li>
-  <li><a href="/assets/study/quantum-field-theory/QFT2/QFT_2_HW_2.pdf" target="_blank" rel="noopener">Homework 2</a></li>
-  <li><a href="/assets/study/quantum-field-theory/QFT2/QFT_2_HW_3.pdf" target="_blank" rel="noopener">Homework 3</a></li>
-  <li><a href="/assets/study/quantum-field-theory/QFT2/QFT_2_HW_4.pdf" target="_blank" rel="noopener">Homework 4</a></li>
-  <li><a href="/assets/study/quantum-field-theory/QFT2/QFT_2_HW_5.pdf" target="_blank" rel="noopener">Homework 5</a></li>
-  <li><a href="/assets/study/quantum-field-theory/QFT2/QFT_2_HW_6.pdf" target="_blank" rel="noopener">Homework 6</a></li>
-  <li><a href="/assets/study/quantum-field-theory/QFT2/QFT_2_HW_7.pdf" target="_blank" rel="noopener">Homework 7</a></li>
+  <li><a href="/assets/study/quantum-field-theory/QFT2/QFT_2_HW_1-compressed.pdf" target="_blank" rel="noopener">Homework 1</a></li>
+  <li><a href="/assets/study/quantum-field-theory/QFT2/QFT_2_HW_2-compressed.pdf" target="_blank" rel="noopener">Homework 2</a></li>
+  <li><a href="/assets/study/quantum-field-theory/QFT2/QFT_2_HW_3-compressed.pdf" target="_blank" rel="noopener">Homework 3</a></li>
+  <li><a href="/assets/study/quantum-field-theory/QFT2/QFT_2_HW_4-compressed.pdf" target="_blank" rel="noopener">Homework 4</a></li>
+  <li><a href="/assets/study/quantum-field-theory/QFT2/QFT_2_HW_5-compressed.pdf" target="_blank" rel="noopener">Homework 5</a></li>
+  <li><a href="/assets/study/quantum-field-theory/QFT2/QFT_2_HW_6-compressed.pdf" target="_blank" rel="noopener">Homework 6</a></li>
+  <li><a href="/assets/study/quantum-field-theory/QFT2/QFT_2_HW_7-compressed.pdf" target="_blank" rel="noopener">Homework 7</a></li>
 </ul>
 
 ### Quantum Field Theory 3

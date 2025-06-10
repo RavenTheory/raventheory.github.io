@@ -16,7 +16,7 @@ status: Reading
 ---
 
 I have read first few chapters of this book. 
-I quite like it so far and reading this book gives me motivation to study physics, so I'm reading this whenever I need a bit of a motivation boost.
+I quite like it so far.
 
 
 

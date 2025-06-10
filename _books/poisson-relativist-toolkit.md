@@ -15,7 +15,7 @@ goodreads_review:
 status: paused
 ---
 
-I've read most of chapter 3, some of chapter 1 so far and used some results from other chapters. I've mostly used this book as a reference since the topic of my master's thesis is junction conditions. When my schedule allows, I will read the rest of the book.
+I've read most of chapter 3, and parts of chapter 1 so far and used some results from other chapters. I've mostly used this book as a reference since the topic of my master's thesis is junction conditions. When my schedule allows, I will read the rest of the book.
 
 
 <div style="height: 270px;"></div>

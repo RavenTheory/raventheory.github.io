@@ -14,11 +14,12 @@ I am writing notes as I read, so the progress is slower than I am used to, but I
 ### String theory. Vol. 1: An introduction to the bosonic string - Joseph Polchinski
 
 #### Notes
-- <a href="/assets/study/string-theory/polchinski/notes/chapter-1-notes.pdf" target="_blank" rel="noopener">Chapter 1 Notes (PDF)</a>
+- <a href="/assets/study/string-theory/polchinski/notes/chapter-1-notes-compressed.pdf" target="_blank" rel="noopener">Chapter 1 Notes (PDF)</a>
+- <a href="/assets/study/string-theory/polchinski/notes/chapter-2-notes-compressed.pdf" target="_blank" rel="noopener">Chapter 2 Notes (PDF)</a>
 
 
 #### Exercises
-- <a href="/assets/study/string-theory/polchinski/exercises/chapter-1-exercises.pdf" target="_blank" rel="noopener">Chapter 1 Exercises (PDF)</a>
+- <a href="/assets/study/string-theory/polchinski/exercises/chapter-1-exercises-compressed.pdf" target="_blank" rel="noopener">Chapter 1 Exercises (PDF)</a>
 
 
 
