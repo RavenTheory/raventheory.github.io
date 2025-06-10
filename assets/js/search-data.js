@@ -91,7 +91,7 @@ ninja.data = [{
               window.location.href = "/books/polchinski_string_theory_vol1/";
             },},{id: "study-string-theory",
           title: 'String Theory',
-          description: "Notes on string theory, branes, and dualities.",
+          description: "Notes and exercises on string theory.",
           section: "Study",handler: () => {
               window.location.href = "/study/1_String-Theory/";
             },},{id: "study-group-theory",
