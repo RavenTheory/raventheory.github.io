@@ -28,13 +28,14 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a Master's graduate from University of Helsinki, specializing in particle physics and cosmology.
-I am interested in fundamental physics and computers.
+I am interested in fundamental physics and technology.
 
-During master's I have learned the two fundamental theories of physics: quantum field theory and general relativity.
+During my master's studies I have learned the two fundamental theories of physics: quantum field theory and general relativity.
 My interest in general relativity and curiosity towards differential geometry led me to my thesis [Junction conditions in general relativity](http://hdl.handle.net/10138/585536).
 Currently, I am interested in continuing my path towards high energy physics and have started to study string theory.
 
-I am also seeking PhD opportunities and am interested in areas ranging from high-energy particle physics and string theory to cosmology, including black hole physics and theoretical aspects of quantum gravity, and condensed matter physics. 
+I am currently serving in the compulsory military service in Finland, and I am interested in continuing my studies by doing a PhD after I finish my service.
+I am interested in areas ranging from high-energy particle physics and string theory to cosmology, including black hole physics and theoretical aspects of quantum gravity, and condensed matter physics. 
 
 
 [comment]: Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
