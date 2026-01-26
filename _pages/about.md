@@ -4,10 +4,10 @@ title: about
 permalink: /
 subtitle: Theoretical physicist #<a href='projects'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
-profile:
-  align: right
-  image: profile_pic.jpeg
-  image_circular: false # crops the image to make it circular
+#profile:
+#  align: right
+#  image: profile_pic.jpeg
+#  image_circular: false # crops the image to make it circular
   #more_info: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
