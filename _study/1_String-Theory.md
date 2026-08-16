@@ -20,7 +20,7 @@ I am writing notes as I read, so the progress is slower than I am used to, but I
 
 #### Exercises
 - <a href="/assets/study/string-theory/polchinski/exercises/chapter-1-exercises-compressed.pdf" target="_blank" rel="noopener">Chapter 1 Exercises (PDF)</a>
-- <a href="/assets/study/string-theory/polchinski/exercises/Polchinski-chapter-2-exercises-compressed.pdf" target="_blank" rel="noopener">Chapter 2 Exercises (PDF)</a>
+- <a href="/assets/study/string-theory/polchinski/exercises/chapter-2-exercises-compressed.pdf" target="_blank" rel="noopener">Chapter 2 Exercises (PDF)</a>
 
 
 
