@@ -89,6 +89,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/polchinski_string_theory_vol1/";
+            },},{id: "books-the-time-machine",
+          title: 'The Time Machine',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_time_machine/";
+            },},{id: "books-world-history-volume-1-to-1500",
+          title: 'World History Volume 1, to 1500',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/world_history_vol1/";
             },},{id: "study-string-theory",
           title: 'String Theory',
           description: "Notes and exercises on string theory.",
