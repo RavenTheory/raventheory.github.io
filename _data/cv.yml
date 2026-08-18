@@ -1,0 +1,103 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Shankar Bhandari
+    - name: Email
+      value: shankar.bhandari.phys@gmail.com / shankar.bhandari.phys@proton.me
+    - name: Location
+      value: Helsinki, Finland
+    - name: Languages
+      value: English, Finnish, Nepali, Swedish
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master of Science
+      institution: University of Helsinki, Helsinki, Finland
+      year: 2022 - 2024
+      description:
+        - Particle Physics and Cosmology
+        - Master's thesis on junction conditions in general relativity
+
+    - title: Bachelor of Science
+      institution: University of Helsinki, Helsinki, Finland
+      year: 2019 - 2022
+      description:
+        - Theoretical Physics major
+        - Computer Science minor
+
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: University of Helsinki
+      year: 2022
+      description:
+        - Teaching assistant for the Scientific Computing II course.
+        - Guided students on their coursework and graded their homework and final projects.
+        - FORTRAN and scientific computing.
+
+- title: Other Experience
+  type: time_table
+  contents:
+    - title: Squad Leader - Finnish Defence Forces
+      year: 2025 - 2026
+      description:
+        - Completed NCO/leadership training and served as squad leader, responsible for leading and training a squad of conscripts.
+        - Strengthened ability to give and incorporate structured feedback.
+        - Leadership, teamwork, and mentoring.
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: <a href="http://hdl.handle.net/10138/585536">Junction conditions in general relativity</a>
+      institution: University of Helsinki
+      year: 2024
+      description:
+        - Master's thesis exploring metric junction conditions in general relativity for null and non-null hypersurfaces.
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Physics
+      items:
+        - Quantum Field Theory
+        - Lattice Field Theory
+        - General Relativity
+    - title: Computing
+      items:
+        - Scientific Computing
+        - Algorithms
+        - Troubleshooting
+    - title: General
+      items:
+        - Problem Solving
+        - Critical Thinking
+        - Teamwork
+
+- title: Languages
+  type: list
+  contents:
+    - <u>English:</u> IELTS 8.5
+    - <u>Finnish:</u> Fluent
+    - <u>Nepali:</u> Native speaker
+    - <u>Swedish:</u> Beginner level
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Theoretical Physics
+      items:
+        - Quantum Field Theory
+        - General Relativity
+        - String Theory
+        - Cosmology
+        - Group Theory
+        - Differential Geometry
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Technology:</u> Computers, Linux, Home Servers, Scientific Computing, Technological advancements

@@ -16,11 +16,14 @@ status: Reading
 ---
 
 
-I have very recently started to study this book.
-I've been curious about string theory, but never really dipped my toe into it.
-Now, I am determined to learn about it even if it's not via more structured approach of learning via enrolling into a course.
-I plan to follow one of the sequences showed mentioned in Preface chapter, with the amount of topics corresponding to two quarters long course.
-Currently, I am studying chapter 1. 
+
+Picked up this book in 2025, since I was curious about string theory and wanted to learn it.
+During 2025 I studied chapters 1 and 2.
+My study of string theory got interrupted by my military service that started in summer of 2025, but I will be continuing this very soon (fall 2026) after I review the first 2 chapters.
+
+As in 2025, I Plan to follow one the sequences mentioned in the Preface chapter, with the amount of topic corresponding to two quarters long course.
+
+
 
 
 
