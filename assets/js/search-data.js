@@ -99,6 +99,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/world_history_vol1/";
+            },},{id: "books-a-little-history-of-the-world",
+          title: 'A Little History of the World',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/a_little_history_of_the_world/";
             },},{id: "study-string-theory",
           title: 'String Theory',
           description: "Notes and exercises on string theory.",
