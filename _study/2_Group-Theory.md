@@ -11,6 +11,8 @@ order: 1
 
 ### *Group Theory in a Nutshell for Physicists* — A. Zee
 
+I've only done the first 3 parts, as it contained enough material to be a good review of my group theory course in uni.
+
 
 #### Notes
 I did not take notes when studying *Group Theory in a Nutshell for Physicists*.

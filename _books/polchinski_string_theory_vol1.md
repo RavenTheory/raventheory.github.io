@@ -12,14 +12,14 @@ date: 2025-05-21
 released: 1998
 stars: 
 goodreads_review: 
-status: Reading
+status: Paused
 ---
 
 
 
 Picked up this book in 2025, since I was curious about string theory and wanted to learn it.
 During 2025 I studied chapters 1 and 2.
-My study of string theory got interrupted by my military service that started in summer of 2025, but I will be continuing this very soon (fall 2026) after I review the first 2 chapters.
+My study of string theory got interrupted by my military service that started in summer of 2025, but I will be continuing this soon after I review the first 2 chapters.
 
 As in 2025, I Plan to follow one the sequences mentioned in the Preface chapter, with the amount of topic corresponding to two quarters long course.
 

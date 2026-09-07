@@ -28,15 +28,17 @@ social: true # includes social icons at the bottom of the page
 ---
 I am a physicist with a Master's degree in particle physics and cosmology.
 I am interested in fundamental physics and technology.
+This summer I finished my year-long military service, and I am looking to continue on my academic path.
 
 During my studies I learned many topics in theoretical physics and my personal favorites were quantum field theory and general relativity.
 My interest in general relativity and curiosity towards differential geometry led me to my thesis [Junction conditions in general relativity](http://hdl.handle.net/10138/585536).
 
-This summer I finished my year long military service, and I am looking to continue on my academic path.
-I am interested in different topics in physics, but I find topics in general relativity and quantum field theory to be the most interesting.
-Some of the topics that especially interests me are black-hole physics and string theory.
+I am interested in different topics in physics, but I find topics in high energy physics to be the most interesting.
+For example particle physics, black hole physics, cosmology, and string theory are especially interesting.
 
-Last year I started learning string theory, which got interrupted by my military service, but I will be continuing it soon.
+As for my non-academic interests, I am quite interested in learning about other natural sciences and history.
+
+[comment]: Last year I started learning string theory, which got interrupted by my military service, but I will be continuing it soon.
 
 
 [comment]: Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
