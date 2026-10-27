@@ -119,6 +119,11 @@ ninja.data = [{
           description: "Personal solutions and detailed calculations from my past Quantum Field Theory homework assignments.",
           section: "Study",handler: () => {
               window.location.href = "/study/3_Quantum-Field-Theory/";
+            },},{id: "study-differential-geometry",
+          title: 'Differential Geometry',
+          description: "Notes and exercises on Differential Geometry.",
+          section: "Study",handler: () => {
+              window.location.href = "/study/4_Differential-Geometry/";
             },},{
         id: 'social-email',
         title: 'email',
