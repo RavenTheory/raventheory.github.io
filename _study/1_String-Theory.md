@@ -9,9 +9,10 @@ order: 1
 Currently, my string theory study is on hold as I haven't continued it after my mil service ended.
 Been busy with other stuff lately so don't know when I will continue, but will def continue someday.
 
+-> String theory study in hiatus right now since I'm focusing on differential geometry currently.
 
-I am currently studying string theory by studying Polchinski's book.
-I am writing notes as I read, so the progress is slower than I am used to, but I will be regularly uploading my notes here. Furthermore, I will also upload the solutions to the exercises I do, as I finish doing them for a chapter.
+<!-- I am currently studying string theory by studying Polchinski's book.
+ I am writing notes as I read, so the progress is slower than I am used to, but I will be regularly uploading my notes here. Furthermore, I will also upload the solutions to the exercises I do, as I finish doing them for a chapter. -->
 
 
 
